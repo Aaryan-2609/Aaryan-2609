@@ -61,15 +61,17 @@
 ---
 
 ## 🧑‍💻 Coding Profiles & Stats
+
 <p align="center">
-  <a href="https://leetcode.com/">
-    <img src="https://leetcard.jacoblin.cool/your-leetcode-username?theme=dark&font=Fira+Code&ext=contest" />
+  <a href="https://leetcode.com/u/aaryan_kamdar1234/">
+    <img src="https://leetcard.jacoblin.cool/aaryan_kamdar1234?theme=dark&font=Fira+Code&ext=contest" />
   </a>
 </p>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=leetcode,hackerrank" />
 </p>
+
 
 ---
 
